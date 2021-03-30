@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  ⚡ Fun fact: I'm crazy for musicals, <strong>my dream it's to go see one at Broadway!</strong>
+  ⚡ Fun fact: I'm crazy for musicals, <strong>my dream it's to go see one at Broadway someday!</strong>
 </p>
 <!--
 **thaconceicao/ThaConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
