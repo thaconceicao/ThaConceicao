@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  ### Aboute Me 👩🏾‍💻
+  ## Aboute Me 👩🏾‍💻
   
   In search of a career transition to IT, as a Front-end Developer.<br/>
   A UX Analyst focused on quality and knowledge sharing, leading projects to reach great results. With more than 9 years in the creative industry I had the
@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  - ⚡ Fun fact: I'm crazy for musicals, <strong>my dream it's to go see one at Broadway!</strong>
+  ⚡ Fun fact: I'm crazy for musicals, <strong>my dream it's to go see one at Broadway!</strong>
 </p>
 <!--
 **thaconceicao/ThaConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
