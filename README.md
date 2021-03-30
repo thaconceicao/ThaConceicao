@@ -1,4 +1,4 @@
-### Oh, hey there! Thays here 🖖🏾
+# Oh, hey there! Thays here 🖖🏾
 
 <p>
   <a href="mailto:tha.sconceicao@gmail.com"><img src="https://img.shields.io/badge/Email-662E91?style=plastic&logo=lemail&logoColor=appveyor"/></a>
@@ -6,9 +6,9 @@
   <a href="https://www.behance.net/thaconceicao"><img src="https://img.shields.io/badge/Behance-662E91?style=plastic&logo=behance&logoColor=appveyor"/></a>
 </p>
 
-<p>
-  ## Aboute Me 👩🏾‍💻
-  
+### Aboute Me 👩🏾‍💻
+
+<p>  
   In search of a career transition to IT, as a Front-end Developer.<br/>
   A UX Analyst focused on quality and knowledge sharing, leading projects to reach great results. With more than 9 years in the creative industry I had the
   incredible opportunity to work with relevance brands and high-performance products.<br/>
